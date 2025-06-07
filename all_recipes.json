@@ -1,0 +1,112 @@
+[
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "French Toast",
+    "recipeDescription": "1985",
+    "servingSize": "",
+    "ingredientList": "4 eggs, well beaten (in deep, narrow bowl)\n1/2 teaspoon salt\n1/8 teaspoon pepper\n1 tablespoon milk\n1/4 teaspoon vanilla extract, optional",
+    "recipeText": "Mix ingredients in flat (Corningware) bowl.  \nUsing flat spatula, flip bread on one side then the other, and put into medium hot grease.\nBrown on one side, then the other; drain; serve with butter and syrup; bacon/ham/sausage for breakfast."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Fried Eggs",
+    "recipeDescription": "1984",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Heat 1/2 cup grease over medium heat.\nBreak 3 eggs into skillet.  Put hot grease over eggs constantly with spatula.\nWhen egg yolks look \"white,\" take eggs out with spatula & drain grease off eggs with Scott towels.\nEat with toast, butter, jam; bacon or ham.\n"
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Ham",
+    "recipeDescription": "1985",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Fry thin slices in medium hot skillet with 1/2 cup grease; drain; serve.\nOr, bake in oven in slices at 350 degrees for 5 - 10 minutes.  (Not greasy.)\nOr, bake a whole ham in the oven about 30 min. at 350 degrees to heat through.\nServe with potato salad or baked potato for dinner with a vegetable and salad."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Pancakes",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Mix batter according to directions on pancake mix box, but add an egg, beaten, even if mix doesn't call for it. \nPour about 1/2 cup batter in center of well-greased skillet on medium heat.  \nWhen bubbles appear in center, flip with spatula and cook half as long as side #1."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Poached Eggs",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Cover bottom of pan with 1/4\" water.\nGrease 4 egg containers & put an egg in each.  Heat over low heat til done.\nMay stir egg whites for even cooking.\nServe with biscuits/toast and butter."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Sausage Links",
+    "recipeDescription": "1985",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Cook on wire grill in oven at 350 degrees for 5 - 10 minutes.  Or in medium skillet for about 5 minutes til done.\nDrain on Scott Towel.  Good with eggs for breakfast, or cornbread & beans for dinner.  Serve with catsup."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Sausage Patties",
+    "recipeDescription": "1985",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Form 1 lb. sausage meat into thin patties.  Fry in medium hot skillet til brown on one side, then the other.\nDrain with Scott towel.  Serve with eggs and toast for breakfast, or with beans, cornbread, and salad for dinner.\nOr: Put patties on wire rack in oven, & grill at 400 degrees for about 5 minutes (grease drops into pan.)\nTest for \"doneness by looking inside a pattie; if pink, cook longer."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Scrambled Eggs",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Heat 1 Tablespoon butter on low heat in iron skillet.  \nCover bottom of pan with melted butter. \nCrack in eggs.  Stir constantly to prevent scorching on bottom of pan.\nServe with toast, butter, & jelly.\nSalt and pepper to taste."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Velveeta Cheese Toast",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Put thin slice of cheese on bread.  \nHeat at 350 degrees for 5 min or less, til melted.  \nTake out of oven with hot pads.  Use thin, flat pan."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Biscuits",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Heat oven to 350 degrees F.  Heat biscuits from \"can\" 8 min. or til slightly brown.  \nServe with butter & jelly or honey."
+  },
+  {
+    "type": "recipe",
+    "bookTitle": "Ken's Cookbook",
+    "chapterName": "Breakfast Foods",
+    "recipeName": "Cinnamon Toast",
+    "recipeDescription": "1983",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": "Spread soft butter on bread. Sprinkle sugar and cinnamon all over bread.\nHeat at 350 degrees for 5 minutes or less.\nTake out of oven with hot pads.  Use thin, flat pan."
+  }
+]
