@@ -1,4 +1,14 @@
 [
+    {
+    "type": "recipe",
+    "bookTitle": "",
+    "chapterName": "",
+    "recipeName": "",
+    "recipeDescription": "",
+    "servingSize": "",
+    "ingredientList": "",
+    "recipeText": ""
+  },
   {
     "type": "recipe",
     "bookTitle": "Need to Try",
